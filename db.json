@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "cookie",
+      "email": "mota@mota.com",
+      "telefono": "998793655",
+      "empresa": "cookie empresas",
+      "id": 28
+    },
+    {
+      "nombre": "juampi amigo",
+      "email": "juan@juan.cl",
+      "telefono": "988841281",
+      "empresa": "cookie empresas",
+      "id": 29
+    }
+  ]
+}
